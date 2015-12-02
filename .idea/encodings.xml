@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/com/wl/entry/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/com/wl/mapper/UserMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/com/wl/utils/StringHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/com/wl/utils/VerifyCode.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/log4j.properties" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/UserMapperTest.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
